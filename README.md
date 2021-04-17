@@ -1,16 +1,17 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevHyeon0312%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-<!--
-**DevHyeon0312/DevHyeon0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💬 I enjoy learning.
+ 
+<div align=center>
+  
+<div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### DevHyeon Link
+
+[![Notion Badge](http://img.shields.io/badge/Notion-Portfolio-white?style=flat-square&logo=notion&link=https://www.notion.so/fc82c23d267b4cb79ac946137a4a9cca)](https://www.notion.so/fc82c23d267b4cb79ac946137a4a9cca)
+[![Tistroy Badge](https://img.shields.io/badge/Blog-Study-white?style=flat-square&logo=blog&link=https://devhyeon0312.tistory.com/)](https://devhyeon0312.tistory.com/)
+
+
+
+<!-- https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
