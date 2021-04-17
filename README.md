@@ -3,6 +3,9 @@
 
 <div align=center>
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devhyeon0312&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhyeon0312&layout=compact&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+
+  
 ### DevHyeon Link
 
 [![Notion Badge](http://img.shields.io/badge/Notion-Portfolio-white?style=flat-square&logo=notion&link=https://www.notion.so/fc82c23d267b4cb79ac946137a4a9cca)](https://www.notion.so/fc82c23d267b4cb79ac946137a4a9cca)
