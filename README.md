@@ -8,7 +8,7 @@
   
 ### DevHyeon Link
 
-[![Notion Badge](http://img.shields.io/badge/Notion-Portfolio-white?style=flat-square&logo=notion&link=https://www.notion.so/fc82c23d267b4cb79ac946137a4a9cca)](https://www.notion.so/fc82c23d267b4cb79ac946137a4a9cca)
+<!--[![Notion Badge](http://img.shields.io/badge/Notion-Portfolio-white?style=flat-square&logo=notion&link=https://www.notion.so/fc82c23d267b4cb79ac946137a4a9cca)](https://www.notion.so/fc82c23d267b4cb79ac946137a4a9cca)-->
 [![Tistroy Badge](https://img.shields.io/badge/Blog-Study-white?style=flat-square&logo=blog&link=https://devhyeon0312.tistory.com/)](https://devhyeon0312.tistory.com/)
 
 <div>
