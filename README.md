@@ -1,8 +1,8 @@
 ### Development experience
 ```dart
 Flutter : 2year+ (2023.03 ~ ing)
-AOS :  2~3year (2020.01~2023.02)
-ETC : 0~1year (2018~2019)
+AOS :  2~3year (2020.01 ~ 2023.02)
+ETC : 0~1year (2018 ~ 2019)
 ```
 
 # 🤗 Welcome. You are the [![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevHyeon0312%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) th person to visit.
