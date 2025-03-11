@@ -1,6 +1,6 @@
 ### Development experience
 ```dart
-Flutter : 1year+ (2023.03 ~ ing)
+Flutter : 2year+ (2023.03 ~ ing)
 AOS :  2year
 ETC : 1year
 ```
